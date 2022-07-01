@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Koochemeshki
-- 👀 I’m interested in ... Front-End developing and a little Back-End developing 
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Front-End developing
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
